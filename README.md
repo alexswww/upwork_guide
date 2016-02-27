@@ -1,4 +1,4 @@
-# Гайд по работе на Апворке
+# Guide for Upwork beginners
 
 ![alt tag](https://raw.githubusercontent.com/odeskconf/guide/master/imgs/raccoon.png)
 
